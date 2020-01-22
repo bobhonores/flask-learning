@@ -1,1 +1,1 @@
-# learning-flask
+# Flask sample
